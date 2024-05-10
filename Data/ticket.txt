@@ -1,0 +1,64 @@
+Correo: f
+BOLETA
+Total: 5
+ID: 2721
+Producto: Gloria - Precio: 5
+
+Correo: f
+BOLETA
+Total: 12
+ID: 2989
+Producto: LSLSLSOP - Precio: 7
+Producto: Gloria - Precio: 5
+
+Correo: Z
+BOLETA
+Total: 5
+ID: 8661
+Producto: Gloria - Precio: 5
+
+Correo: f
+BOLETA
+Total: 5
+ID: 6428
+Producto: Gloria - Precio: 5
+
+Correo: f
+BOLETA
+Total: 5
+ID: 2956
+Producto: Gloria - Precio: 5
+
+Correo: jayka@gmail.com
+BOLETA
+Total: 5
+ID: 3870
+Producto: Gloria - Precio: 5
+
+Correo: jayka@gmail.com
+BOLETA
+Total: 4.5
+ID: 5758
+Producto: Doritos - Precio: 3
+Producto: Globopop - Precio: 1.5
+
+Correo: jayka@gmail.com
+BOLETA
+Total: 6.5
+ID: 6617
+Producto: Globopop - Precio: 1.5
+Producto: Gloria - Precio: 5
+
+Correo: f
+BOLETA
+Total: 1.5
+ID: 3142
+Producto: Globopop - Precio: 1.5
+
+Correo: leon@gmail.com
+BOLETA
+Total: 6.5
+ID: 4458
+Producto: Sparkies - Precio: 3.5
+Producto: Doritos - Precio: 3
+

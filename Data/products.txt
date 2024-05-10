@@ -1,0 +1,6 @@
+5
+Snacks 18 Doritos Doritos_Picantes 3 190
+Lacteos 13 LSLSLSOP powkww 7 125
+Lacteos 11 Gloria LecheGloria 5 200
+Confiteria 34 Sparkies Caramelos_Unicos 3.5 180
+Confiteria 21 Globopop Chupetin_Globopop 1.5 120
