@@ -1,0 +1,19 @@
+18
+f f f f f f
+A A A A A A
+S S S S S S
+D D D D D D
+C C C C C C
+V V V V V V
+G G G G G G
+X X X X X X
+Z Z Z Z Z Z
+g g g g g g
+a2.0 a a a a a
+b b b b b b
+jhair peres av.bolivar 1234 jayka@gmail.com 1234
+pp p p pp pp pp
+q q q 2 q q
+Leon Garitegui Av.Bolivar 1234 leon@gmail.com 1234
+Pedro Perez Av.Bolivar 924287851 pedro23@gmail.com 123456
+pp pp pp 123 pp 1234

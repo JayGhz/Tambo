@@ -1,0 +1,10 @@
+9
+Lacteos 331 LecheLaive Lehce_nutritiva Laive 3.5 100
+Snacks 18 Doritos Doritos_Picantes Lays 3 152
+Lacteos 13 LSLSLSOP powkww Gloria 7 125
+Lacteos 11 Gloria LecheGloria Gloria 5 128
+Confiteria 34 Sparkies Caramelos_Unicos Bubbalo 3.5 145
+Confiteria 21 Globopop Chupetin_Globopop Ssss 1.5 115
+Cervezas 23 Cerveza Cerveza_de_sevada Cuzquena 7 110
+Lacteos 2034 sss sss Laive 10 100
+Lacteos 2929 Leche_deslactosada Leche_sin_mas Laive 6.5 100

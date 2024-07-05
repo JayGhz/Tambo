@@ -1,0 +1,6 @@
+5
+a 4946 Falta_de_un_producto(s) Me_faltaron_2_leches Atendido Payasoooo 21/06/2024||12:23:35
+a 5096 Falta_de_un_producto(s) aaa Atendido Se_valido_su_reclamo 21/06/2024||12:24:09
+f 5149 Falta_de_un_producto(s) vvv Rechazado No-seaceptan_devluciones 21/06/2024||12:24:29
+a 2435 Producto_equivocado ooo Atendido SOLUCINADO 21/06/2024||12:56:42
+jayka@gmail.com 1107 Producto_equivocado medierondoritos Rechazado negado 26/06/2024||08:17:50

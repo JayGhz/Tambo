@@ -1,0 +1,38 @@
+BOLETA
+Correo: a
+ID: 5651
+Total: 160
+Fecha: 23/06/2024||12:35:56
+Producto: Gloria - Precio: 5 - Cantidad: 32
+
+BOLETA
+Correo: a
+ID: 5929
+Total: 14
+Fecha: 23/06/2024||12:37:21
+Producto: Sparkies - Precio: 3.5 - Cantidad: 4
+
+BOLETA
+Correo: a
+ID: 9253
+Total: 22.5
+Fecha: 23/06/2024||11:58:10
+Producto: Doritos - Precio: 3 - Cantidad: 4
+Producto: Sparkies - Precio: 3.5 - Cantidad: 3
+
+BOLETA
+Correo: a
+ID: 4358
+Total: 29
+Fecha: 24/06/2024||12:19:07
+Producto: Gloria - Precio: 5 - Cantidad: 4
+Producto: Doritos - Precio: 3 - Cantidad: 3
+
+BOLETA
+Correo: jayka@gmail.com
+ID: 6575
+Total: 35
+Fecha: 26/06/2024||08:15:13
+Producto: Gloria - Precio: 5 - Cantidad: 4
+Producto: Doritos - Precio: 3 - Cantidad: 5
+

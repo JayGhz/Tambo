@@ -1,0 +1,7 @@
+5
+Walter Perez 1234 Manager
+Pedro Marca 1818 Manager
+Laura Casio 29123311 Atencion_al_cliente
+Piero Ruiz 3439223 Repartidor
+Luis Lopez 3342211 Repartidor
+David Contreras 75394002 Developer
